@@ -2,7 +2,9 @@
 
 # Sobre mim
 
-Olá, meu nome é **Africano** e sou um desenvolvedor web. Atualmente, estou cursando o segundo ano de Ciência da Computação na **IMETRO** e tenho experiência em várias linguagens de programação, incluindo **Django**, **Python**, **Java**, **C** e **Git**. Além disso, você está aprendendo **React Native** e **React JS**. 🚀
+Olá, meu nome é **Africano** e sou um desenvolvedor web. Atualmente, estou cursando o segundo ano de Ciência da Computação na 
+**IMETRO** e tenho experiência em várias linguagens de programação, incluindo **Django**, **Python**, **Java**, **C** e **Git**. 
+Além disso, estou está aprendendo **React Native** e **React JS**. 🚀
 
 ## Habilidades
 
