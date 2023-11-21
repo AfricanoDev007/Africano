@@ -22,4 +22,3 @@ Além disso, estou está aprendendo **React Native** e **React JS**. 🚀
 ## Contato
 
 - Email: userdev010@gmail.com 📧
-- LinkedIn: [seu perfil do LinkedIn aqui]
